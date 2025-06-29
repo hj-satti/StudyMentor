@@ -1,0 +1,5 @@
+DSA 4
+AI 5
+DBMS 2
+OOP 3
+Math 1
